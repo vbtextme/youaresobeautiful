@@ -15,7 +15,7 @@
   animation-delay: -1.2s;
 }
 .text:nth-child(5n + 2) {
-  stroke: #f5a503;
+  stroke: #f5a505;
   -webkit-animation-delay: -2.4s;
   animation-delay: -2.4s;
 }
@@ -52,7 +52,7 @@ body {
 }
 
 body {
-  background: #111;
+  background: #063970;
   background-size: 0.2em 100%;
   font: 5em/1 Open Sans, Impact;
   text-transform: uppercase;
